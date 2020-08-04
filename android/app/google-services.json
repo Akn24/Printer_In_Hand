@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671316518342",
+    "firebase_url": "https://monitoringapp-12d9e.firebaseio.com",
+    "project_id": "monitoringapp-12d9e",
+    "storage_bucket": "monitoringapp-12d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671316518342:android:ffe1249c55ba8653aa7ec7",
+        "android_client_info": {
+          "package_name": "com.example.printerinhand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671316518342-e9jndng68vgm7p5d769ie9i4a2v453j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhcOvwz3vxN8Am2VDYE2ReMHFB18EDmAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671316518342-e9jndng68vgm7p5d769ie9i4a2v453j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
